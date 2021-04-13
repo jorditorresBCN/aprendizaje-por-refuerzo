@@ -1,10 +1,14 @@
 # **Introducción al aprendizaje por refuerzo profundo**
 ## Teoria y práctica en Python
-### [Jordi Torres](https://torres.ai) 
+[Jordi Torres](https://torres.ai) 
+
 WATCH THIS SPACE collection – Barcelona: Book 7
+
 Kindle Direct Publishing 
+
 ISBN  9798599775416  
-October 2019
+
+Mayo 2021
 
 <a href="https://torres.ai/aprendizaje-por-refuerzo"><img src="https://www.marcombo.com/wp-content/uploads/2019/12/9788426728289.jpg" alt="Python Deep Learning" height="256px" align="right"></a>
 
