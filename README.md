@@ -1,4 +1,4 @@
-<a href="https://torres.ai/aprendizaje-por-refuerzo"><img src="https://www.marcombo.com/wp-content/uploads/2019/12/9788426728289.jpg" alt="Python Deep Learning" height="256px" align="right"></a>
+<a href="https://torres.ai/aprendizaje-por-refuerzo"><img src="https://github.com/jorditorresBCN/aprendizaje-por-refuerzo/blob/main/portada-libro.png" alt="Python Deep Learning" height="256px" align="right"></a>
 
 # **Introducción al aprendizaje por refuerzo profundo**
 ## Teoria y práctica en Python
