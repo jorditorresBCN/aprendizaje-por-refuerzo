@@ -1,3 +1,5 @@
+<a href="https://torres.ai/aprendizaje-por-refuerzo"><img src="https://www.marcombo.com/wp-content/uploads/2019/12/9788426728289.jpg" alt="Python Deep Learning" height="256px" align="right"></a>
+
 # **Introducción al aprendizaje por refuerzo profundo**
 ## Teoria y práctica en Python
 [Jordi Torres](https://torres.ai) 
@@ -10,7 +12,6 @@ ISBN  9798599775416
 
 Mayo 2021
 
-<a href="https://torres.ai/aprendizaje-por-refuerzo"><img src="https://www.marcombo.com/wp-content/uploads/2019/12/9788426728289.jpg" alt="Python Deep Learning" height="256px" align="right"></a>
 
 **Este github contiene el código del libro [Introducción al aprendizaje por refuerzo profundo. Teoria y práctica en Python](https://torres.ai/aprendizaje-por-refuerzo), publicado por Marcombo**
 
