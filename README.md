@@ -6,17 +6,7 @@
 
 # Este libro ha sido descatalogado debido a que se basa en librerías de Python de aprendizaje por refuerzo que han sido actualizadas y el código requiere ser revisado en detalle. Desafortunadamente el autor no dispone del tiempo necesario para revisar el código con las nuevas versiones de las librerías. Disculpas por avanzado por cualquier inconveniente. (Sant Jordi, 23/abril/2023)
 
-WATCH THIS SPACE collection – Barcelona: Book 7
-
-Kindle Direct Publishing 
-
-ISBN  9798599775416  
-
-Mayo 2021
-
-
-**Este github contiene el código del libro [Introducción al aprendizaje por refuerzo profundo. Teoria y práctica en Python](https://torres.ai/aprendizaje-por-refuerzo)**
-
+WATCH THIS SPACE collection – Barcelona: Book 7. Kindle Direct Publishing. ISBN  9798599775416  , 2021
 
 ### Acerca del libro
 
@@ -29,7 +19,7 @@ En la primera parte del libro se ha formalizado el tema alrededor de dos element
 
 ### Notas de prensa
 
-Barcelona Supercomputing Center (BSC-CNS):  [English – Català – Castellano](https://www.bsc.es/es/noticias/noticias-del-bsc/el-investigador-del-bsc-jordi-torres-publica-el-primer-libro-en-español-sobre-aprendizaje-por)https://www.bsc.es/es/noticias/noticias-del-bsc/el-investigador-del-bsc-jordi-torres-publica-el-primer-libro-en-español-sobre-aprendizaje-por
+Barcelona Supercomputing Center (BSC-CNS):  [.](https://www.bsc.es/es/noticias/noticias-del-bsc/el-investigador-del-bsc-jordi-torres-publica-el-primer-libro-en-español-sobre-aprendizaje-por)https://www.bsc.es/es/noticias/noticias-del-bsc/el-investigador-del-bsc-jordi-torres-publica-el-primer-libro-en-español-sobre-aprendizaje-por
 
-Facultat d’Informàtica de Barcelona  (FIB/UPC): [English – Català – Castellano](https://www.fib.upc.edu/es/noticias/nuevo-libro-de-jordi-torres-sobre-temas-de-inteligencia-artificial)https://www.fib.upc.edu/es/noticias/nuevo-libro-de-jordi-torres-sobre-temas-de-inteligencia-artificial
+Facultat d’Informàtica de Barcelona  (FIB/UPC): [.](https://www.fib.upc.edu/es/noticias/nuevo-libro-de-jordi-torres-sobre-temas-de-inteligencia-artificial)https://www.fib.upc.edu/es/noticias/nuevo-libro-de-jordi-torres-sobre-temas-de-inteligencia-artificial
 
